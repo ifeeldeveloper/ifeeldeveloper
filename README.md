@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Jagadish Bhatta</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Enthusiasts.</h3>
 <img align="right" alt="coding" width="400" height="370" src="https://imgs.search.brave.com/vB_NpB0DIrxQjl_rKL086px9bl3IqpE1Tp5oDSySpBI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLWNv/ZGluZy1pbWFnaW5h/dGlvbi1qZHgxcnVt/dGE4emkyNzYzLmdp/Zg.gif">
