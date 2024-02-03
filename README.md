@@ -31,10 +31,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" alt="ifeeldeveloper" width="46%"/></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" alt="ifeeldeveloper" width="46%"/></p>
 
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ifeeldeveloper?tab=repositories" ><img  src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en" alt="ifeeldeveloper" /></a>
 <a href="https://github.com/ifeeldeveloper?tab=stars" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" alt="ifeeldeveloper" /></a>
 </p>
@@ -43,14 +43,14 @@
 
 
 <!-- activity graph heroku-app start -->
-<p align="left">
+<p align="center">
     <a href="https://github.com/ifeeldeveloper/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ifeeldeveloper">
         <img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper&column=-1&theme=dracula&layout=compact"width="95%"/> </a>
 </p>
