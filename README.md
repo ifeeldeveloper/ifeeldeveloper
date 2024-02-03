@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Jagadish Bhatta</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Enthusiasts.</h3>
-<img align="right" alt="coding" width="400" height="300" src="https://imgs.search.brave.com/vB_NpB0DIrxQjl_rKL086px9bl3IqpE1Tp5oDSySpBI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLWNv/ZGluZy1pbWFnaW5h/dGlvbi1qZHgxcnVt/dGE4emkyNzYzLmdp/Zg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeeldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ifeeldeveloper" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ifeeldeveloper**
+- 📫 How to reach me **jagadishbhatta16@gmail.com**
 
 - ⚡ Fun fact **I Love Listening Aaratis and Bhajans🎧😁**
 
@@ -31,19 +31,19 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeeldeveloper&theme=gotham&layout=compact"width="47%"/> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" alt="ifeeldeveloper" width="46%"/></p>
+
+<p align="left">
+<a href="https://github.com/ifeeldeveloper?tab=repositories" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en" alt="ifeeldeveloper" /></a>
+<a href="https://github.com/ifeeldeveloper?tab=stars" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" alt="ifeeldeveloper" /></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
+
 
 
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://jharohit.com.np/">
+<p align="left">
+    <a href="https://github.com/ifeeldeveloper/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
