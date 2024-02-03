@@ -33,9 +33,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" alt="ifeeldeveloper" width="46%"/></p>
 
+
 <p align="left">
-<a href="https://github.com/ifeeldeveloper?tab=repositories" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en" alt="ifeeldeveloper" /></a>
-<a href="https://github.com/ifeeldeveloper?tab=stars" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" alt="ifeeldeveloper" /></a>
+<a href="https://github.com/ifeeldeveloper?tab=repositories" ><img  src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en" alt="ifeeldeveloper" /></a>
+<a href="https://github.com/ifeeldeveloper?tab=stars" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" alt="ifeeldeveloper" /></a>
 </p>
 
 
@@ -49,7 +50,7 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper&column=-1&theme=dracula&layout=compact"width="95%"/> 
+<p align="left">
+    <a href="https://github.com/ifeeldeveloper">
+        <img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper&column=-1&theme=dracula&layout=compact"width="95%"/> </a>
 </p>
