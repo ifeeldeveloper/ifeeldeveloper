@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Jagadish Bhatta</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Enthusiasts.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeeldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ifeeldeveloper" /> </p>
 
@@ -35,22 +35,17 @@
 
 
 <p align="center">
-<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper"  width="48%" alt="@ifeeldeveloper's github-readme-stats"/></a>
+<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 
-
+<p align="center"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="95%" /></a> </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://github.com/ifeeldeveloper/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
 
-<p align="center">
-    <a href="https://github.com/ifeeldeveloper">
-        <img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper&column=-1&theme=dracula&layout=compact"width="95%"/> </a>
-</p>
