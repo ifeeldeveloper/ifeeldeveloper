@@ -29,23 +29,16 @@
 </a>
 </p>
 
-
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" alt="ifeeldeveloper" width="46%"/></p>
-
-
-<p align="center">
-<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper"  width="48%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<p align="left">
+<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper"  width="49%" alt="@ifeeldeveloper's github-readme-stats"/></a>
+<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper"  width="49%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 
-<p align="center"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="95%" /></a> </p>
+<p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="98%" /></a> </p>
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://github.com/ifeeldeveloper/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper" width="95%" alt="activity graph">
-    </a>
+<p align="left">
+<a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="38%" alt="ifeeldeveloper"/></a>
+<a ><img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper" width="60%" alt="activity graph"></a>
 </p>
 
