@@ -34,10 +34,11 @@
 <a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="42%" alt="ifeeldeveloper"/></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="98%" /></a> </p>
+<p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="99%" /></a> </p>
 
 <p align="left">
-<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" width="98%"   alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" width="46%"   alt="@RJ's github-readme-streak-stats"/></a>
+<a><img  src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=github&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="53%"   alt="activity graph"></a>
 </p>
-<p><img  src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="98%"   alt="activity graph"></p>
+
 
