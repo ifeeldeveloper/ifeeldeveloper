@@ -30,10 +30,9 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ifeeldeveloper"  width="49%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a href="https://github.com/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifeeldeveloper"  width="49%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en"  width="47%" alt="@ifeeldeveloper's github-readme-stats"/></a>
+<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&"  width="50%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
-
 
 <p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="98%" /></a> </p>
 
