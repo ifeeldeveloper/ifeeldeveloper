@@ -23,22 +23,16 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/uYdp_mAugIFP1aLvY9mARspEn5lIZXXkA4glfSRW6Lc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw.svg" alt="HTML5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/_MqSZDZZ8WP4_0pswoFcuZhUl3zblcWfMTYrznY4WxU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk5L1Vub2ZmaWNp/YWxfSmF2YVNjcmlw/dF9sb2dvXzIuc3Zn.svg" alt="Js" width="35" height="35"/>
-</a> 
-<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/G0Fg48Fe5q2rV3_UI9bp-oeQPUYIiNvl32Urx1uCBuc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JkL0xvZ29fQ19z/aGFycC5zdmc.svg" alt="C#" width="40" height="40"/>
-</a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/_MqSZDZZ8WP4_0pswoFcuZhUl3zblcWfMTYrznY4WxU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk5L1Vub2ZmaWNp/YWxfSmF2YVNjcmlw/dF9sb2dvXzIuc3Zn.svg" alt="Js" width="35" height="35"/> </a> 
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/G0Fg48Fe5q2rV3_UI9bp-oeQPUYIiNvl32Urx1uCBuc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JkL0xvZ29fQ19z/aGFycC5zdmc.svg" alt="C#" width="40" height="40"/></a>
 </p>
 
 <p align="left">
 <a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en"  width="55%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="42%" alt="ifeeldeveloper"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="42%" alt="ifeeldeveloper"/></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="99%" /></a> </p>
-
-<p align="left">
-<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeeldeveloper&" width="46%"   alt="@RJ's github-readme-streak-stats"/></a>
-<a><img  src="https://github-readme-activity-graph.vercel.app/graph?username=ifeeldeveloper&theme=github&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="53%"   alt="activity graph"></a>
+<p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="99%" /></a>
 </p>
 
 
