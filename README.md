@@ -25,8 +25,8 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en"  width="55%" alt="@ifeeldeveloper's github-readme-stats"/></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="42%" alt="ifeeldeveloper"/></a>
+<a href="https://github.com/ifeeldeveloper/ifeeldeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ifeeldeveloper&show_icons=true&locale=en"  width="83%" alt="@ifeeldeveloper's github-readme-stats"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeeldeveloper&show_icons=true&locale=en&layout=compact" width="99%" alt="ifeeldeveloper"/></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="99%" /></a>
