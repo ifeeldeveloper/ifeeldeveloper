@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
-<h1 align="center">Hi 👋, I'm Jagadish Bhatta</h1>
-<h3 align="center">A passionate Python Developer and Aspiring Data Professional.</h3>
+<h1 align="center">Hi 👋, I'm Jagadish Bhatta - a Data Nerd</h1>
+<h4 align="center">Passionate about SQL, Python and real-world data problems.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeeldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ifeeldeveloper" /> </p>
+<h3>🔍 What I'm Working On</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **jagadishbhatta16@gmail.com**
-
-- ⚡ Fun fact **I Love Listening Aaratis and Bhajans🎧😁**
+- Data analysis using Python and Pandas
+- Writing efficient SQL queries
+- Building small ETL-style data projects
+- Working with real-world datasets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +36,3 @@
 
 <p align="left"> <a href="https://github.com/ifeeldeveloper/ifeeldeveloper"><img src="https://github-profile-trophy.vercel.app/?username=ifeeldeveloper" alt="ifeeldeveloper" width="99%" /></a>
 </p>
-
-
