@@ -8,15 +8,15 @@
 
 - Data analysis using Python and Pandas
 - Writing efficient SQL queries
-- Building small ETL-style data projects
+- Building ETL-style data projects
 - Working with real-world datasets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadishbhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifeeldeveloper" height="30" width="40" /></a>
-<a href="https://fb.com/ifeeldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifeeldeveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/ifeeldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ifeeldeveloper" height="30" width="40" /></a>
-<a href="https://twitter.com/ifeeldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeeldeveloper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagadishbhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadishbhatta" height="30" width="40" /></a>
+<a href="https://fb.com/ijagadishbhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ijagadishbhatta" height="30" width="40" /></a>
+<a href="https://instagram.com/ijagadishbhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ijagadishbhatta" height="30" width="40" /></a>
+<a href="https://twitter.com/ijagadishbhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ijagadishbhatta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
